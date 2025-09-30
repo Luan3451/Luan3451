@@ -33,19 +33,26 @@ Profissional de Segurança da Informação em formação, com foco em práticas 
 ### 🛠️ Ferramentas & Tecnologias
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/splunk/000000" alt="Splunk" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure AD" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cyberark/0056A1" alt="CyberArk" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/sql/4479A1" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows" width="40" height="40"/>
+  <strong>☁️ Cloud (Nuvem):</strong><br>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS"/>
 </p>
 
----
+<p align="left">
+  <strong>🛡️ Análise e Monitoramento:</strong><br>
+  <img src="https://cdn.simpleicons.org/splunk/white" alt="Splunk" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>👨‍💻 Linguagens e Sistemas:</strong><br>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+
 
 ### 🛡️ Principais Competências
 
@@ -69,6 +76,6 @@ Profissional de Segurança da Informação em formação, com foco em práticas 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB-AQUI&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan3451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan3451&layout=compact&langs_count=8&theme=dracula"/>
 </p>
