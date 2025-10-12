@@ -73,9 +73,7 @@ Profissional de Segurança da Informação em formação, com foco em práticas 
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan3451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan3451&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+![Estatísticas de Luan](https://github-readme-stats.vercel.app/api?username=Luan3451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Linguagens mais usadas por Luan](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan3451&layout=compact&theme=tokyonight)
