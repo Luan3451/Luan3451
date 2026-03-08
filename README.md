@@ -1,6 +1,6 @@
 # Hi there, I'm Luan! 👋 🟣
 
-I am an Information Security student in my final stages of graduation, currently working as an N2 Technical Support Professional. I am actively building a strong foundation in IT operations, Identity and Access Management (AD, CyberArk), and Cloud environments, while transitioning fully into a dedicated Cybersecurity role.
+I am an Information Security student in my final stages of graduation, currently working as an Technical Support Professional. I am actively building a strong foundation in IT operations, Identity and Access Management (AD, CyberArk), and Cloud environments, while transitioning fully into a dedicated Cybersecurity role.
 
 My main focus right now bridges offensive and defensive strategies (Purple Team), Cloud Security, and automating security operations.
 
