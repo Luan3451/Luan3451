@@ -1,23 +1,27 @@
-# Hi there, I'm Luan! 👋 🟣
+# Hi there, I'm Luan Santana Barros! 👋 🟣
 
-I am an Information Security student in my final stages of graduation, currently working as an Technical Support Professional. I am actively building a strong foundation in IT operations, Identity and Access Management (AD, CyberArk), and Cloud environments, while transitioning fully into a dedicated Cybersecurity role.
+I am an Information Security undergraduate student and a **Level 2 Technical Support Analyst** with solid hands-on experience in Identity and Access Management (Active Directory, Entra ID, CyberArk). I am actively bridging my IT operations background into a dedicated **Defensive Security (Blue Team / SOC)** role.
 
-My main focus right now bridges offensive and defensive strategies (Purple Team), Cloud Security, and automating security operations.
+My daily grind is currently focused on Security Operations, Threat Hunting, and Cloud Security. I am executing an intensive, 12-month practical roadmap simulating real-world cyber attacks, investigating logs, and creating detection rules.
 
 ### 🛡️ Areas of Focus & Expertise
-* **Security Operations:** Threat Intelligence, SIEM, Log Analysis.
-* **Cloud Security:** Azure & Microsoft ecosystems.
-* **Automation:** Python for Security Automation and Scripting.
+* **Security Operations (SOC):** Threat Hunting, SIEM (Microsoft Sentinel, Splunk), EDR/XDR (Microsoft Defender, Wazuh).
+* **Identity & Access Management (IAM):** Active Directory, Entra ID, CyberArk, Privilege Escalation Analysis.
+* **Network & Forensics:** Traffic Analysis (Wireshark, Zeek, Snort), Windows/Linux Forensics.
+* **OS & Automation:** Arch Linux (Daily Driver) 🐧, Python for Security Automation, KQL, Bash.
 
 ### 🚀 Currently Learning & Working On
-* **Studying for:** CompTIA Security+ and Microsoft SC-300.
-* **Building:** A homelab and creating Python scripts to automate routine security tasks.
+* **Studying for:** Microsoft SC-200 (Security Operations Analyst) and CompTIA CySA+ (Cybersecurity Analyst).
+* **Building:** Publishing CTF Write-ups, detailing attack vectors, log analysis, and mitigation strategies on my GitHub.
 
-### 📜 Certifications
-* **Microsoft:** SC-900 (Security, Compliance, and Identity Fundamentals), AZ-900 (Azure Fundamentals).
-* **Frameworks & Foundations:** ISO/IEC 27001, ISO/IEC 27032, NIST Cybersecurity Framework 2.0, Ethical Hacking Foundations.
+### 📜 Certifications Achieved
+* **CompTIA:** Security+
+* **Microsoft:** SC-300 (Identity and Access Administrator Associate)
+* **Microsoft:** SC-900 (Security, Compliance, and Identity Fundamentals)
+* **Microsoft:** AZ-900 (Azure Fundamentals)
+* **Microsoft:** Applied Skills Credential
 
 ### 🎯 Career Goals
-Looking for opportunities to grow as a **Junior Security Analyst**, **Security Trainee**, applying my troubleshooting background and cloud security knowledge to protect digital assets.
+Looking for opportunities to grow as a **Security Analyst (SOC / Blue Team)**. I bring a strong troubleshooting background, proven IAM experience, and a relentless drive to investigate, detect, and mitigate cyber threats.
 
-*Trying to turn into a good cybersecurity analyst.* 💻🛡️
+*Defending the digital frontier, one log at a time.* 💻🛡️
